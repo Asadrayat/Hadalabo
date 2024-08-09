@@ -1,12 +1,12 @@
-# [smileOptics]
+# [hadalabo]
 
 <a href="https://smileoptics.com/">https://smileoptics.com</a>
 
-Welcome to [smileOptics], where style meets functionality! Our carefully curated collection offers a seamless shopping experience for fashion-forward individuals seeking quality and trendsetting designs.
+Welcome to [hadalabo], where style meets functionality! Our carefully curated collection offers a seamless shopping experience for fashion-forward individuals seeking quality and trendsetting designs.
 
 ## About
 
-[smileOptics] is an e-commerce store built on Shopify, offering a wide range of fashion apparel and accessories. Our mission is to provide customers with high-quality products and exceptional shopping experience.
+[hadalabo] is an e-commerce store built on Shopify, offering a wide range of fashion apparel and accessories. Our mission is to provide customers with high-quality products and exceptional shopping experience.
 
 ## Features
 
